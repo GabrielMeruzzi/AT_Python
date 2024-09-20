@@ -1,0 +1,7 @@
+[
+  { "nome": "Teclado Mec\u00e2nico", "preco": 350.0, "quantidade": 10 },
+  { "nome": "Mouse Gamer", "preco": 200.0, "quantidade": 15 },
+  { "nome": "Monitor 24''", "preco": 1200.0, "quantidade": 5 },
+  { "nome": "Headset Wireless", "preco": 450.0, "quantidade": 8 },
+  { "nome": "Cadeira Gamer", "preco": 900.0, "quantidade": 3 }
+]
